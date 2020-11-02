@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+
+.lux{
+    color: blue;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Aeronaves';
+}
+
+img{
+    width: 50%;
+    border: solid 5px blue;
+    border-radius: 30% 25% 20% 15%;
+}
+
+@font-face{
+    font-family: 'Aeronaves';
+    src: url('Aeronaves.ttf');
+}
+
+p{
+    color: blue;
+    font-size: 50px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
